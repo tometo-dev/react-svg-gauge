@@ -1,7 +1,9 @@
 import React from "react"
 
+import Gauge from "./Gauge"
+
 function App() {
-  return <div>Hello World!!</div>
+  return <Gauge />
 }
 
 export default App
